@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luanti textdomain mobs_mc x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.1\n"
+
+msgid "Axolotl"
+msgstr "Аксолотль"
+
+msgid "Spawning will only be successful on clay."
+msgstr "Будет успешно спавниться только на глине."
+
+msgid "Bat"
+msgstr "Летучая мышь"
+
+msgid "Spawning will only be successful between light levels of 0 and 3 at most times of the year, or 0 and 6 between 20 October and 3 November."
+msgstr "Будет успешно спавниться только при уровне света 0-3 всю большую часть года, или, при уровне 0-6 между 20 октября и 3 ноября."
+
+msgid "Blaze"
+msgstr "Ифрит"
+
+msgid "Chicken"
+msgstr "Курица"
+
+msgid "Cod"
+msgstr "Треска"
+
+msgid "Each mob spawned will form a school with the remainder of the mobs in the group."
+msgstr ""
+
+msgid "Cow"
+msgstr "Корова"
+
+msgid "Mooshroom"
+msgstr "Грибная корова"
+
+msgid "Creeper"
+msgstr "Крипер"
+
+msgid "Charged Creeper"
+msgstr "Заряженный крипер"
+
+msgid "Dolphin"
+msgstr "Дельфин"
+
+msgid "Drowned"
+msgstr ""
+
+msgid "Baby Drowned"
+msgstr ""
+
+msgid "Drowned will spawn more frequently in this biome."
+msgstr ""
+
+msgid "Ender Dragon"
+msgstr "Дракон Края"
+
+msgid "Enderman"
+msgstr "Эндермен"
+
+msgid "Endermite"
+msgstr "Эндермит"
+
+msgid "Ghast"
+msgstr "Гаст"
+
+msgid "Ghast Fireball"
+msgstr "Огненный шар Гаста"
+
+msgid "Guardian"
+msgstr "Страж"
+
+msgid "Guardians spawn less frequently in regions of the ocean which are exposed to the sky at the surface."
+msgstr ""
+
+msgid "Elder Guardian"
+msgstr "Древний страж"
+
+msgid "Hoglin"
+msgstr "Хоглин"
+
+msgid "Baby Hoglin"
+msgstr "Хоглин-ребёнок"
+
+msgid "Hoglins do not spawn above Nether Wart blocks."
+msgstr ""
+
+msgid "20% of Hoglins spawn as their baby variants."
+msgstr ""
+
+msgid "Zoglin"
+msgstr "Зоглин"
+
+msgid "Sneak to dismount"
+msgstr "Нажмите [Красться] для высадки"
+
+msgid "Horse"
+msgstr "Лошадь"
+
+msgid "Skeleton Horse"
+msgstr "Лошадь-скелет"
+
+msgid "Zombie Horse"
+msgstr "Лошадь-зомби"
+
+msgid "Donkey"
+msgstr "Ослик"
+
+msgid "Mule"
+msgstr "Мул"
+
+msgid "Iron Golem"
+msgstr "Железный голем"
+
+msgid "Llama"
+msgstr "Лама"
+
+msgid "Ocelot"
+msgstr "Оцелот"
+
+msgid "Cat"
+msgstr "Кошка"
+
+msgid "This mob will spawn infrequently on grass or leaves when no obstructions exist within a volume @1 nodes in size around the center of such a node's upper surface."
+msgstr ""
+
+msgid "Parrot"
+msgstr "Попугай"
+
+msgid "on grass, leaves, or logs"
+msgstr ""
+
+msgid "Pig"
+msgstr "Свинья"
+
+msgid "Piglin"
+msgstr "Пиглин"
+
+msgid "Piglin Brute"
+msgstr "Жестокий пиглин"
+
+msgid "Zombie Piglin"
+msgstr "Зомби-пиглин"
+
+msgid "Zombified Piglin"
+msgstr "Зомбированный пиглин"
+
+msgid "Pillager"
+msgstr "Разбойник"
+
+msgid "Polar Bear"
+msgstr "Полярный медведь"
+
+msgid "on grass or snow blocks"
+msgstr ""
+
+msgid "The second polar bear in a group will always be spawned as a cub."
+msgstr ""
+
+msgid "Pufferfish"
+msgstr "Иглобрюх"
+
+msgid "Rabbit"
+msgstr "Кролик"
+
+msgid "Killer Bunny"
+msgstr "Кролик-убийца"
+
+msgid "Salmon"
+msgstr "Лосось"
+
+msgid "Sheep"
+msgstr "Овца"
+
+msgid "Shulker"
+msgstr "Шалкер"
+
+msgid "Silverfish"
+msgstr "Чешуйница"
+
+msgid "Skeleton"
+msgstr "Скелет"
+
+msgid "Stray"
+msgstr "Странник"
+
+msgid "Moreover, the block where the mob is to spawn must be exposed to sky."
+msgstr ""
+
+msgid "Wither Skeleton"
+msgstr "Скелет-иссушитель"
+
+msgid "Slime - big"
+msgstr "Слизень - большой"
+
+msgid "Slime - small"
+msgstr "Слизень - средний"
+
+msgid "Slime - tiny"
+msgstr "Слизень - маленький"
+
+msgid "Magma Cube - big"
+msgstr "Лавовый куб - большой"
+
+msgid "Magma Cube - small"
+msgstr "Лавовый куб - средний"
+
+msgid "Magma Cube - tiny"
+msgstr "Лавовый куб - маленький"
+
+msgid "Magma Cube"
+msgstr "Лавовый куб"
+
+msgid "Slime"
+msgstr "Слизень"
+
+msgid "Snow Golem"
+msgstr "Снежный голем"
+
+msgid "on grass nodes"
+msgstr ""
+
+msgid "This mob will spawn infrequently @1 with a surface occupying a full node when no obstructions exist within a volume @2 nodes in size around the center of such a node's upper surface, in light levels of 8 or greater."
+msgstr ""
+
+msgid "This mob will spawn between sea level and Y level -12 when the nodes above and below are water and no obstructions exist within a volume @1 nodes in size around the center of the base of the fluid node where spawning is being attempted."
+msgstr ""
+
+msgid "Spawning will only succeed in the absence of artificial lighting and if the natural light is @1 or dimmer."
+msgstr ""
+
+msgid "Spawning will only succeed between artificial light levels of 0 and @1."
+msgstr ""
+
+msgid "Spawning will only succeed between natural light levels of 0 and @1."
+msgstr ""
+
+msgid "Spawning will only succeed between artificial light levels of 0 and @1, and natural light levels of 0 and @2."
+msgstr ""
+
+msgid "Spider"
+msgstr "Паук"
+
+msgid "Cave Spider"
+msgstr "Пещерный паук"
+
+msgid "Squid"
+msgstr "Спрут"
+
+msgid "Glow Squid"
+msgstr "Светящийся спрут"
+
+msgid "Glow Squid only spawn in absolute darkness at Y levels of 33 or below."
+msgstr ""
+
+msgid "Strider"
+msgstr "Страйдер"
+
+msgid "Baby Strider"
+msgstr "Детёныш страйдера"
+
+msgid "Tropical Fish"
+msgstr "Тропическая рыба"
+
+msgid "Vex"
+msgstr "Досаждатель"
+
+msgid "Villager"
+msgstr "Житель"
+
+msgid "Armorer"
+msgstr "Бронник"
+
+msgid "Butcher"
+msgstr "Мясник"
+
+msgid "Cartographer"
+msgstr "Картограф"
+
+msgid "Cleric"
+msgstr "Священник"
+
+msgid "Farmer"
+msgstr "Фермер"
+
+msgid "Fisherman"
+msgstr "Рыбак"
+
+msgid "Fletcher"
+msgstr "Лучник"
+
+msgid "Leatherworker"
+msgstr "Кожевник"
+
+msgid "Librarian"
+msgstr "Библиотекарь"
+
+msgid "Mason"
+msgstr "Каменщик"
+
+msgid "Shepherd"
+msgstr "Пастух"
+
+msgid "Toolsmith"
+msgstr "Инструментальщик"
+
+msgid "Weaponsmith"
+msgstr "Оружейник"
+
+msgid "Nitwit"
+msgstr "Нищий"
+
+msgid "Novice"
+msgstr "Новичок"
+
+msgid "Apprentice"
+msgstr "Ученик"
+
+msgid "Journeyman"
+msgstr "Умелец"
+
+msgid "Expert"
+msgstr "Эксперт"
+
+msgid "Master"
+msgstr "Мастер"
+
+msgid "Evoker"
+msgstr "Вызыватель"
+
+msgid "Illusioner"
+msgstr "Иллюзор"
+
+msgid "Vindicator"
+msgstr "Поборник"
+
+msgid "Zombie Villager"
+msgstr "Зомби-житель"
+
+msgid "Wandering Trader"
+msgstr "Бродячий торговец"
+
+msgid "Trader Llama"
+msgstr "Лама торговца"
+
+msgid "Witch"
+msgstr "Ведьма"
+
+msgid "Wither"
+msgstr "Иссушитель"
+
+msgid "Wolf"
+msgstr "Волк"
+
+msgid "on grass, snow blocks, coarse dirt, or podzol"
+msgstr ""
+
+msgid "Zombie"
+msgstr "Зомби"
+
+msgid "Baby Zombie"
+msgstr "Зомби-ребёнок"
+
+msgid "Husk"
+msgstr "Кадавр"
+
+msgid "Baby Husk"
+msgstr "Кадавр-ребёнок"
+
+msgid "5% of Zombies will spawn as their baby variants."
+msgstr ""
+
+msgid "5% of Husks will spawn as their baby variants."
+msgstr ""
+
+msgid "Husks will only spawn on nodes that are exposed to sky."
+msgstr ""
+

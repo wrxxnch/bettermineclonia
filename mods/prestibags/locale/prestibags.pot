@@ -1,0 +1,74 @@
+# Prestibags - Prestibags are simple bags that act like chests you can pick up..
+# Copyright (C) 2025 Codiac
+# This file is distributed under the same license as the prestibags package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: prestibags 1.0.0\n"
+"Report-Msgid-Bugs-To: nobody@example.net\n"
+"POT-Creation-Date: 2025-07-18 11:58+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Prestibags"
+msgstr ""
+
+msgid "Prestibags are simple bags that act like chests you can pick up."
+msgstr ""
+
+msgid "Bag of Stuff"
+msgstr ""
+
+msgid "Black Bag of Stuff"
+msgstr ""
+
+msgid "Blue Bag of Stuff"
+msgstr ""
+
+msgid "Brown Bag of Stuff"
+msgstr ""
+
+msgid "Cyan Bag of Stuff"
+msgstr ""
+
+msgid "Green Bag of Stuff"
+msgstr ""
+
+msgid "Grey Bag of Stuff"
+msgstr ""
+
+msgid "Leather Bag of Stuff"
+msgstr ""
+
+msgid "Light Blue Bag of Stuff"
+msgstr ""
+
+msgid "Light Green Bag of Stuff"
+msgstr ""
+
+msgid "Magenta Bag of Stuff"
+msgstr ""
+
+msgid "Orange Bag of Stuff"
+msgstr ""
+
+msgid "Pink Bag of Stuff"
+msgstr ""
+
+msgid "Purple Bag of Stuff"
+msgstr ""
+
+msgid "Red Bag of Stuff"
+msgstr ""
+
+msgid "Silver Bag of Stuff"
+msgstr ""
+
+msgid "Yellow Bag of Stuff"
+msgstr ""

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luanti textdomain mcl_inventory x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.1\n"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "On (causes problems on some client versions)"
+msgstr "Вкл. (вызывает проблемы в некоторых версиях клиента)"
+
+msgid "Enable scrollable creative inventory"
+msgstr "Включить прокрутку в творческом инвентаре"
+
+msgid "Building Blocks"
+msgstr "Строительные блоки"
+
+msgid "Decoration Blocks"
+msgstr "Декоративные блоки"
+
+msgid "Redstone"
+msgstr "Редстоун"
+
+msgid "Transportation"
+msgstr "Транспорт"
+
+msgid "Miscellaneous"
+msgstr "Разное"
+
+msgid "Search Items"
+msgstr "Поиск предметов"
+
+msgid "Foodstuffs"
+msgstr "Пища"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Combat"
+msgstr "Оружие и броня"
+
+msgid "Mobs"
+msgstr "Мобы"
+
+msgid "Brewing"
+msgstr "Зельеварение"
+
+msgid "Materials"
+msgstr "Материалы"
+
+msgid "Survival Inventory"
+msgstr "Инвентарь выживания"
+
+msgid "Not in Creative Inventory"
+msgstr "Нет в творческом инвентаре"
+
+msgid "Switch stack size"
+msgstr "Изменить размер стака"
+
+msgid "@1 / @2"
+msgstr "@1 / @2"
+
+msgid "Very large inventory displays may be slow when scrolling, especially on Luanti versions before 5.11.\n"
+"Therefore the creative inventory display can be split into pages with prev/next page buttons.\n"
+"Mineclonia defaults to use scrolling unless an older Luanti version is detected.\n"
+"This setting allows you to override that heuristic."
+msgstr "Отображение большого инвентаря может быть медленным, особенно на Luanti версии ниже 5.11.\n"
+"Поэтому творческий инвентарь можно отобразить с разделением на страницы с кнопками переключения вперёд/назад.\n"
+"Mineclonia по умолчанию использует прокрутку, если не обнаружена старая версия Luanti.\n"
+"Эта настройка позволяет переопределить это поведение."
+
+msgid "Recipe book"
+msgstr "Книга рецептов"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Advancements"
+msgstr "Достижения"
+
+msgid "Player settings"
+msgstr "Настройки игрока"
+
+msgid "Return to player inventory"
+msgstr "Вернуться в инвентарь игрока"
+
+msgid "Crafting table out of range!"
+msgstr "Верстак вне достижения!"
+
+msgid "Crafting"
+msgstr "Создание"
+
+msgid "Fill Craft Grid"
+msgstr "Заполнить сетку крафта"
+
